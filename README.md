@@ -18,8 +18,6 @@ The application allows you to leave feedback from a android or ios app and also 
 
 ## Running Locally
 
-This application requires Node.js v18+.
-
 ```bash
 $ git clone https://github.com/msdevpt/nlw-return-impulse-mobile.git
 $ cd nlw-return-impulse-mobile
