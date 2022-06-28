@@ -55,6 +55,7 @@ export function Form({ feedbackType, onFeedbackCanceled, onFeedbackSent }: Props
         comment
       });
 
+
       onFeedbackSent();
       
     } catch (error) {

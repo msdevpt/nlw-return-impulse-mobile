@@ -7,7 +7,7 @@ export function Copyright() {
   return (
     <View >
       <Text style={styles.text}>
-        Done com ❤️ by Rocketseat
+        Done with ❤️ by MSDev
       </Text>
     </View>
   );
